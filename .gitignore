@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.db3
+*.log
+*.tmp
+*.swp
